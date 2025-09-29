@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Vibrodo Music</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>🎶 Vibrodo Music</h1>
+    <p>Ad-Free. Background Play. Pure Music Experience.</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#audience">Who It's For</a></li>
+      <li><a href="#folk">Folk Music</a></li>
+      <li><a href="#team">Our Team</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section id="about">
+    <h2>Welcome to Vibrodo Music</h2>
+    <p>
+      Vibrodo Music is a music platform made for people who just want to enjoy music – no ads, no interruptions. Whether you're a casual listener, a passionate music enthusiast, or a fan of authentic folk sounds, we’ve built this for you.
+    </p>
+    <p>
+      We proudly promote local folk artists and offer high-quality music downloads. Our mission is to cater to the diverse tastes of our community while giving voice to traditional music that deserves the spotlight.
+    </p>
+  </section>
+
+  <section id="features">
+    <h2>Core Features</h2>
+    <ul class="feature-list">
+      <li>🚫 100% Ad-Free Listening</li>
+      <li>▶️ Background Music Play Support</li>
+      <li>⬇️ High-Quality Music Downloads</li>
+      <li>🌍 Promoting Local & Folk Artists</li>
+      <li>🎧 Personalized Music for Every Listener</li>
+    </ul>
+  </section>
+
+  <section id="audience">
+    <h2>Who Is Vibrodo For?</h2>
+    <ul class="audience-list">
+      <li>🎵 Music Lovers & Audiophiles</li>
+      <li>🙌 Ad Haters</li>
+      <li>🧠 Music Enthusiasts & Creatives</li>
+      <li>💤 Casual Listeners who want peace</li>
+      <li>🪕 Folk Music Fans</li>
+      <li>🎼 Supporters of Local Artists</li>
+    </ul>
+  </section>
+
+  <section id="folk">
+    <h2>Promoting Local Folk Music</h2>
+    <p>
+      Folk music carries stories, emotions, and traditions that are fading fast. At Vibrodo Music, we’re building a platform to give these voices a global stage.
+    </p>
+    <p>
+      If you're an artist or love discovering regional sounds, you're in the right place. We collaborate with folk musicians to deliver their music to the world – beautifully, respectfully, and in high quality.
+    </p>
+  </section>
+
+  <section id="team">
+    <h2>Meet Our Team</h2>
+    <div class="team">
+      <div class="member">
+        <h3>Abhinav Deval</h3>
+        <p>Founder & CEO</p>
+        <small>Vision & Strategy</small>
+      </div>
+      <div class="member">
+        <h3>Purushottam Deval</h3>
+        <p>Co-Founder & CMO</p>
+        <small>Marketing & Growth</small>
+      </div>
+      <div class="member">
+        <h3>Titiksha Bansal</h3>
+        <p>Co-Founder & CTO</p>
+        <small>Technology & Product</small>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: support@vibrodomusic.com</p>
+    <p>Instagram Vibrodo.music_24/ YouTube: @vibrodomusic (Coming Soon!)</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Vibrodo Music. All rights reserved.</p>
+  </footer>
+</body>
+</html>
